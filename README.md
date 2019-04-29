@@ -1,5 +1,7 @@
 # Movie Recommendation System Using Stacked Autoencoders
 
+I have used the user based collaborative filtering approach for this project
+
 #### Project Dependencies
 ```
 python 3.6 +
