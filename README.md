@@ -18,5 +18,10 @@ git clone https://github.com/paritoshshirodkar/Movie-Recommendation-System-Using
 
 Execute the code using
 ```
-python 
+python movie_recommendations_using_sae.py
+```
+
+If the command line alternative does not work I recommend using the Spyder IDE which can found here
+```
+https://anaconda.org/anaconda/spyder
 ```
