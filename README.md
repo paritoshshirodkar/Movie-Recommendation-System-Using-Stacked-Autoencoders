@@ -11,6 +11,13 @@ matplotlib
 pytorch
 ```
 
+PyTorch can be downloaded from the following link
+```
+https://pytorch.org/
+```
+
+
+
 #### To execute the project make sure the requirements are satisfied as per your system
 
 First clone the repository
@@ -23,7 +30,7 @@ Execute the code using
 python movie_recommendations_using_sae.py
 ```
 
-If the command line alternative does not work I recommend using the Spyder IDE which can found here
+If the command line alternative does not work I recommend using the Spyder IDE which can be downloaded from the following link
 ```
 https://anaconda.org/anaconda/spyder
 ```
